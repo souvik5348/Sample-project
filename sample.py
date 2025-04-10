@@ -1,6 +1,6 @@
-# Input from user
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+# Input 
+num1 = 5
+num2 = 5
 
 # Adding the two numbers
 sum = num1 + num2
